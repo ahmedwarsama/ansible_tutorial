@@ -1,2 +1,2 @@
-vm3
-vm4
+vm3 apache_package=apache2 php_package=libapache2-mod-php
+vm4 apache_package=apache2 php_package=libapache2-mod-php
