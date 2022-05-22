@@ -7,3 +7,6 @@ vm4
 
 [file_servers]
 vm4 
+
+[workstations]
+10.0.2.5
